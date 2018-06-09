@@ -4,7 +4,7 @@ Description
 ===========
 This is project UCSD_2018_Spring-ECE285(ML for Image Processing) developed by team MLers 
 composed of Anh Mai, Jinzhao Feng, Minhong Zhou, Steven Tien
-<br>
+
 Requirements
 ============
 Install package 'matplotlib ' a s follow :
