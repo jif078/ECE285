@@ -21,7 +21,10 @@ $ pip install -- user tensorflow
 
 Code organization
 =================
-ECE285 . ipynb -- Run a demo of our code ( reproduce of our report )
+ECE285_main. ipynb -- Run the style transfer transfer module(with hyper parameters to produce each cases in our report), depends on each case it may take a long time, there will be comments along with the code
+
+ECE285_demo. ipynb -- Reproduce all the pictures we used and also the results that we obtained, there will be comment along with the code
+
 
 images / content.jpg -- content image 
 
