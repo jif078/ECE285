@@ -24,8 +24,8 @@ The matrix can also be dowloaded directly from http://www.vlfeat.org/matconvnet/
 
 Code organization
 =================
-ECE285_main. ipynb -- Run the style transfer transfer module and produce figure 6 (b) in our report(take less than 2 munite to run). The same module can produce all the results're showed in the report. There are comment along with the prarameters to produce each case. In some case, it may take more an 30 munites to produce the result.
+ECE285_main. ipynb -- Run the style transfer transfer module and produce figure 6 (b) in our report(take less than 2 munite to run). The same module can produce all the results we show in the report. There are comment along with the prarameters to produce each case. In some case, it may take more an 30 munites to produce the result.
 
-images /... folder that contains all the input of content and style images for different cases
+images /... folder that contains all the inputs of content and style images for different cases
 
-output/... -- folder that contain generated image 
+output/... -- folder that contain the result generated image 
