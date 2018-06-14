@@ -26,10 +26,6 @@ Code organization
 =================
 ECE285_main. ipynb -- Run the style transfer transfer module and produce figure 6 (b) in our report(take less than 2 munite to run). The same module can produce all the results're showed in the report. There are comment along with the prarameters to produce each case. In some case, it may take more an 30 munites to produce the result.
 
-input_main/ -- folder that contain all the content and style images
-
-images / content.jpg -- content image 
-
-images / style.jpg -- style
+images /... folder that contains all the input of content and style images for different cases
 
 output/... -- folder that contain generated image 
