@@ -7,16 +7,16 @@ composed of Anh Mai, Jinzhao Feng, Minhong Zhou, Steven Tien
 
 Requirements
 ============
-Install package 'matplotlib ' a s follow :          
+Install package 'matplotlib ' as follow :          
 $ pip install -- user matplotlib         
 
-Install package 'scipy ' a s follow :      
+Install package 'scipy ' as follow :      
 $ pip install -- user scipy
 
-Install package 'PIL ' a s follow :
+Install package 'PIL ' as follow :
 $ pip install -- user pillow
 
-Install package 'tensorflow ' a s follow :
+Install package 'tensorflow ' as follow :
 $ pip install -- user tensorflow
 
 To use the VGG modude users need to download the pretrained matrix "imagenet-vgg-verydeep-19.mat". The file is big(510Mb), so we will attach it along with the project in the email. Please download the matrix in your module before running the code
